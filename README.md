@@ -6,8 +6,8 @@
 
 ## Build
 
-make
-./feal_ready known.txt
+- make
+- ./feal_ready known.txt
 
 ## Files
 
